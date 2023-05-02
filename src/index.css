@@ -10,7 +10,7 @@ body {
 
 .game-ui {
   height: 400px;
-  width: 400px;
+  width: 350px;
   background-color: white;
   margin: 40px auto;
   border: 1px solid black;
@@ -46,7 +46,7 @@ body {
 
 .roll-button {
   height: 50px;
-  width: 100px;
+  width: 150px;
   border: none;
   border-radius: 6px;
   background-color: #5035ff;
