@@ -1,16 +1,16 @@
 * {
   box-sizing: border-box;
   font-family: 'Karla', sans-serif;
+  margin: 0 10px;
 }
 
 body {
-  margin: 0;
   background-color: #0B2434;
 }
 
 .game-ui {
   height: 400px;
-  width: 340px;
+  width: 350px;
   background-color: white;
   margin: 40px auto;
   border: 1px solid black;
